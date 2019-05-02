@@ -1,5 +1,5 @@
 {
-  "name": "hello-world",
+  "name": "prueba_grid",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -8,7 +8,6 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "@toast-ui/vue-calendar": "^1.0.3",
     "vue": "^2.6.6"
   },
   "devDependencies": {
